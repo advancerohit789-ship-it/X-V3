@@ -13,7 +13,7 @@ const OFFICIAL_PAIR_GROUP_LINK = "https://t.me/pbv56NuNOhIzZjc9";
 
 // Telegram Bot Token: paste your BotFather token here.
 // Environment variable is supported too; the value below is used if it is set.
-const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || "8956010800:AAH2HV-NP76lmgO6HGNI8h8wGQfWpmYwWc8";
+const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || "8956010800:AAHDDIK9JvLQ0MSl9tmAd1TBqIBZdZoSYZA";
 
 function normalizePhone(value) { return String(value || "").replace(/\D/g, ""); }
 function isoToFlag(iso) {
